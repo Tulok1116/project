@@ -88,6 +88,7 @@ flowchart LR
   BP --> NP[Narrow Phase Ütközésvizsgálat]
   NP --> CR[Ütközési Válasz & Kényszerek]
   CR --> R[Megjelenítés & Elemzés]
+```
 
 ### Megvalósíthatóság és technikai kockázatok
 
