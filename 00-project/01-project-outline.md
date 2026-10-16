@@ -1,8 +1,13 @@
 name: Galambos Bence
+
 neptun: D0EWY6
+
 id: 2026-NP-05
+
 github: https://github.com/
+
 github project: https://github.com/Tulok1116/project
+
 ---
 # Egyedi 2D fizikai motor játékokhoz
 
