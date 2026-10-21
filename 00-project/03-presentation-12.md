@@ -48,7 +48,10 @@ project_outline: "[[00-project/01-project-outline]]"
   * **Ütközési Válasz & Kényszerek:** Impulzus alapú dinamika, restitúció (rugalmasság), súrlódás, forgás, valamint behatolási hiba elleni pozíció-korrekció (*positional correction*) és egyszerű csuklók/távolságkényszerek.
   * **Validáció és Mérések:** Reprodukálható tesztesetek futtatása, numerikus stabilitás vizsgálata különböző időlépések mellett, valamint a testszámfüggő számítási költségek elemzése.
 
+---
+
 <!-- @slide Tervezett hatókör -->
+## Tervezett hatókör
 
 * **Nincs benne a hatókörben:**
   * Kereskedelmi fizikai motorok teljes körű, ipari funkcionalitásának lemásolása.
