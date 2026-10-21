@@ -42,15 +42,13 @@ project_outline: "[[00-project/01-project-outline]]"
 
 ## Tervezett hatókör
 
-<!-- @columns 2 -->
-
 * **Benne van a hatókörben:**
   * **Numerikus Integráció:** Külső erők és sebességek kezelése (pl. Semi-Implicit Euler / Verlet integrátorok).
   * **Ütközésdetektáló Pipeline:** Az előszűrés (*broad phase*) és a pontos geometriai metszetvizsgálat (*narrow phase*, pl. SAT – Separating Axis Theorem konvex poligonokhoz és körökhöz) szétválasztása.
   * **Ütközési Válasz & Kényszerek:** Impulzus alapú dinamika, restitúció (rugalmasság), súrlódás, forgás, valamint behatolási hiba elleni pozíció-korrekció (*positional correction*) és egyszerű csuklók/távolságkényszerek.
   * **Validáció és Mérések:** Reprodukálható tesztesetek futtatása, numerikus stabilitás vizsgálata különböző időlépések mellett, valamint a testszámfüggő számítási költségek elemzése.
 
-<!-- @col-break -->
+<!-- @slide Tervezett hatókör -->
 
 * **Nincs benne a hatókörben:**
   * Kereskedelmi fizikai motorok teljes körű, ipari funkcionalitásának lemásolása.
